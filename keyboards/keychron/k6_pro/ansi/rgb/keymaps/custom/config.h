@@ -17,4 +17,6 @@
 
 #define USB_POLLING_INTERVAL_MS 1
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 5  // Changed: Reduced from 6 to 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
+#define COMBO_TERM 50
